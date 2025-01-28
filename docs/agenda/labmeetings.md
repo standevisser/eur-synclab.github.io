@@ -54,9 +54,11 @@ The schedule of the labmeetings for 2024-2025 (regularly updated):
 
 <li>Tuesday March 11, 2025 16-17 (hybrid): joint lab meeting with Eva Telzer's lab </li>
 
+<li>Tuesday March 11, 2025 11-12 (live): lab meeting: speaker Marieke Bos </li>
+
 <li>Tuesday March 25, 2025 12-13 (live): Bring your own lunch-extra labmeeting </li>
 
-<li>Tuesday April 1, 2025 11-12 (live):</li>
+<li>Tuesday April 1, 2025 11-12 (live): lab meeting: speaker Jeroen van der Waal </li>
 
 <li>Tuesday April 8, 2025 12-13 (live): Bring your own lunch-extra labmeeting </li>
 
@@ -64,7 +66,7 @@ The schedule of the labmeetings for 2024-2025 (regularly updated):
 
 <li>Tuesday May 6, 2025 12-13 (live): Bring your own lunch-extra labmeeting </li>
 
-<li>Tuesday May 13, 2025 11-12 (live):</li>
+<li>Tuesday May 13, 2025 11-12 (live):lab meeting: speaker Julian Schaap </li>
 
 <li>Tuesday May 27, 2025 12-13 (live): Bring your own lunch-extra labmeeting </li>
 
